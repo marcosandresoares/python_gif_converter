@@ -1,4 +1,4 @@
-# python_gif_converter
+# GIF Converter
 
 <p> Description: </p>
 Python script to convert video files into GIFs
