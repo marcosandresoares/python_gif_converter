@@ -7,7 +7,7 @@ Python script to convert video files into GIFs
 <b> Instructions </b>
 
 <ol>
-<li> Put input file inside the <i>input</i> folder </li>
+<li> Put input file inside the main folder </li>
 <li> Open <i> gif-converter.py</i> </li>
 <li> In the variable <i>original_file </i>, insert the name of the video you wish to convert </li>
 <li> Save the changes you made to the script </li>
